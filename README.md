@@ -34,7 +34,7 @@ wallpaper_engin/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wallpaper_engin.git
+git clone https://github.com/Navanjana2005/AI-DEPTH-Wallpaper-Engine.git
 cd wallpaper_engin
 ```
 
@@ -100,3 +100,4 @@ This project is open source. Feel free to use, modify, and distribute.
 ## Contributing
 
 Feel free to submit issues and pull requests!
+
